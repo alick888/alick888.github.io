@@ -114,6 +114,7 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - alick888/DAppCentral
  - alick888/docker-react
  - alick888/faceplusplus
  - alick888/mule-modules-sayhi

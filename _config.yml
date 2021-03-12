@@ -88,17 +88,17 @@ education:
    school: Brigham Young University, USA
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+#coursera:
+#   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+#   courses:
+#    - title: Functional Programming Principles in Scala
+#      link: https://www.coursera.org/course/progfun
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+#      date: September 16, 2013
+#    - title: Algorithms Design and Analysis, Part 1
+#      link: https://www.coursera.org/specializations/algorithms
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+#      date: April 28, 2014
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
@@ -114,21 +114,13 @@ speakerdeck:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+ - alick888/docker-react
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+   profileurl: https://stackoverflow.com/users/15381388/alick-wong
+   flairimageurl: https://i.stack.imgur.com/6m8Pw.jpg?s=328&g=1
+#   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
  I have extensive Solution Architecture experience for Telecom Operators, Financial Institutions and Government with in-depth knowledge in multiple programming languages including Java, Python, C++ and JavaScript.<br/><br/>  

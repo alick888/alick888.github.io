@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Alick Wong
+twitter_username: alick888
+name: Alick Wong
 
 # Build settings
 markdown: kramdown
@@ -12,66 +12,73 @@ primarylinks:
  - title: Blog
    url: https://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/alick888
  - title: StackOverflow
    url: https://stackoverflow.com/users/258813/rhinds
  - title: DZone
    url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: Food
-   url: https://www.robbishfood.com/
-
+   url: https://www.linkedin.com/in/alickwong/
+ - title: Machine Learning
+   url: http://www.pegacode.com/index.php/machine-learning-sample/
+   
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
+ - Scrum
+ - Chef
+ - Terraform
+ - Ansible
  - Microservices
- - Slick
- - Product management
+ - Machine Learning
+ - Kubernetes
+ - Docker
  - API design
- - Groovy
  - Spring MVC/Boot/Social
  - Gradle
+ - Maven
+ - Subversion
+ - Git
  - Java
- - JPA
  - SQL
  - REST
  - Technical Architecture
- - Machine learning
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Enterprise Architect
+   start: 2018
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
+   employer: Pegacode
+   description: Managed and developed cloud based applications using technologies provided by AliCloud.  Implemented  the cloud architecture for both development and production to provide reliable, cost effective, ready to scale and secured architecture for future growth.
+ - title: Solution Architect
+   start: 2011
+   end: 2018
+   employer: Oracle
+   description: Digitized the on-premise BSS solution to integrate with cloud based products within Oracle to pave the road for a complete cloud solution for communication customers.  Architected solution guideline for application deployment including architecture framework, development guideline and go-live check-list to facilitate professional service consultant, partner and customer best practice approach in a smooth implementation process.  Resolved sticky or last minute deployment issues  to allow for customer success and building relationships with customer officials for solution expansion.
+ - title: Sales Consulting Manager
+   start: 2007
+   end: 2011
+   employer: Oracle
+   description: Managed a team of 8 sales consultants to support various presales activities throughout APAC and personally engaged in key sales activities to major customers in APAC including Telkomsel and Korea Telecom (KT).
+ - title: Principal Sales Consultant
    start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   end: 2007
+   employer: Narus
+   description: Key principal sales consultant in the APAC region to support proof of concepts, demo and solution design for network mediation and security monitoring systems for telecom.  Engaged in and provided PoCs to key customers such as China Mobile, CAT and Reliance.
 
 #Education is required
 education:
+ - level: Master of Telecommunications
+   date: 2007
+   subject: Telecommunication
+   school: HKUST
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   date: 1989
+   subject: Electrical Engineering - Computer
+   school: Brigham Young University, USA
 
 #This section is optional (as is the image link below)
 coursera:
@@ -117,18 +124,19 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+ I have extensive Solution Architecture experience for Telecom Operators, Financial Institutions and Government with in-depth knowledge in multiple programming languages including Java, Python, C++ and JavaScript.  
+ I am passionate about technology and innovation and have won the Innovation Award from Alibaba Cloud Global AI Innovation Challenge 2020.  
+ I am fluent in Agile and DevOps technologies for a complete end-to-end software life cycle that span across requirement analysis, design, build, test, deploy and monitor.  
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
-   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
-   <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
-   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
+   <strong>Python</strong>: My current role uses Python as the primary language and have been building applications in Python for the last two years.<br/><br/>
+   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot in addition to others. <br/><br/>
+   <strong>C++</strong> I have used C++ as a language in production for ~5 years and I am familiar with many of the languages features. <br/><br/>
+   <strong>Cloud platforms</strong>: I have primarily used Aliyun for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of Aliyun offerings. <br/><br/>
    <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="https://projects.spring.io/spring-social/">https://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   <strong>DevOps</strong>: I have created a CI/CD framework using Terraform, Jenkins and Ansible to deploy an enterprise software solution with applications built into Docker images running on Kubernete clusters.<br/><br/>
+   <strong>Agile</strong>: I have Agile methodologies for managing customer requirements and development tasks.<br/><br/>
+   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as Azure/Google/AWS. <br/><br/>
+   

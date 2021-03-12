@@ -102,15 +102,15 @@ education:
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
+#speakerdeck:
+#   profileurl: https://speakerdeck.com/robhinds
+#   talks:
+#    - title: Product Management for Engineers
+#      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+#      conference: API Conference, Berlin 2018
+#    - title: Agile Machine Learning - from Theory to Production
+#      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+#      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -119,7 +119,8 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/15381388/alick-wong
-   flairimageurl: https://i.stack.imgur.com/6m8Pw.jpg?s=328&g=1
+#   flairimageurl: https://i.stack.imgur.com/6m8Pw.jpg?s=328&g=1
+   flairimageurl: https://stackoverflow.com/users/flair/15381388.png
 #   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |

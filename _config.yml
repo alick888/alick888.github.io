@@ -59,22 +59,27 @@ roles:
    start: 2018
    end: Ongoing
    employer: Pegacode
-   description: Managed and developed cloud based applications using technologies provided by AliCloud.  Implemented  the cloud architecture for both development and production to provide reliable, cost effective, ready to scale and secured architecture for future growth.
+   description: Designed and implemented cloud native application frameworks using Python and Java for IoT and Finance industry.  Managed cloud based architecture for hosting application development and production environments.
  - title: Solution Architect
-   start: 2011
+   start: 2007
    end: 2018
    employer: Oracle
-   description: Digitized the on-premise BSS solution to integrate with cloud based products within Oracle to pave the road for a complete cloud solution for communication customers.  Architected solution guideline for application deployment including architecture framework, development guideline and go-live check-list to facilitate professional service consultant, partner and customer best practice approach in a smooth implementation process.  Resolved sticky or last minute deployment issues  to allow for customer success and building relationships with customer officials for solution expansion.
- - title: Sales Consulting Manager
-   start: 2007
-   end: 2011
-   employer: Oracle
-   description: Managed a team of 8 sales consultants to support various presales activities throughout APAC and personally engaged in key sales activities to major customers in APAC including Telkomsel and Korea Telecom (KT).
+   description: Designed and developed integration framework for B/OSS products in the cloud and on-premise.  Created automated deployment framework for B/OSS applications based on modern CI/CD technologies as part of the integrated product offerings.  Provided best practice guideline and expert services for customer implementations.
  - title: Principal Sales Consultant
-   start: 2005
+   start: 2000
    end: 2007
-   employer: Narus
-   description: Key principal sales consultant in the APAC region to support proof of concepts, demo and solution design for network mediation and security monitoring systems for telecom.  Engaged in and provided PoCs to key customers such as China Mobile, CAT and Reliance.
+   employer: Portal Software
+   description: Key principal sales consultant in the APAC region to support proof of concepts, demo and solution design for B/OSS systems written in C++ and Java.
+ - title: Project Manager/Systems Architect
+   start: 1995
+   end: 2000
+   employer: Hong Kong Police
+   description: Designed and implemented an integration solution with single sign-on and end-to-end encryption for HKP applications.
+ - title: Systems Analysts
+   start: 1989
+   end: 1995
+   employer: Chase Manhattan Bank
+   description: Designed and implemented a FX Margin system implemented in IBM mainframe in Hong Kong and Sun Solaris in New York.
 
 #Education is required
 education:
@@ -115,16 +120,14 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - alick888/DAppCentral
- - alick888/docker-react
  - alick888/faceplusplus
  - alick888/mule-modules-sayhi
+ - alick888/docker-react
 
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/15381388/alick-wong
-#   flairimageurl: https://i.stack.imgur.com/6m8Pw.jpg?s=328&g=1
    flairimageurl: https://stackoverflow.com/users/flair/15381388.png
-#   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
  I have extensive Solution Architecture experience for Telecom Operators, Financial Institutions and Government with in-depth knowledge in multiple programming languages including Java, Python, C++ and JavaScript.<br/><br/>  
@@ -137,9 +140,9 @@ additionalinfo: |
    <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot in addition to others. <br/><br/>
    <strong>C++</strong> I have used C++ as a language in production for ~5 years and I am familiar with many of the languages features. <br/><br/>
    <strong>Cloud platforms</strong>: I have primarily used Aliyun for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of Aliyun offerings. <br/><br/>
-   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
+   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap and React<br/><br/>
+   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
    <strong>DevOps</strong>: I have created a CI/CD framework using Terraform, Jenkins and Ansible to deploy an enterprise software solution with applications built into Docker images running on Kubernete clusters.<br/><br/>
-   <strong>Agile</strong>: I have Agile methodologies for managing customer requirements and development tasks.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as Azure/Google/AWS. <br/><br/>
+   <strong>Agile</strong>: I have used Agile methodologies for managing customer requirements and development tasks.<br/><br/>
+   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, Machine Learning Model, a variety of social APIs (Twilio, Slack, etc) and cloud platforms such as Azure/Google/AWS. <br/><br/>
    

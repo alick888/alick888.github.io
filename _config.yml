@@ -70,7 +70,7 @@ roles:
    end: 2007
    employer: Portal Software
    description: Key principal sales consultant in the APAC region to support proof of concepts, demo and solution design for B/OSS systems written in C++ and Java.
- - title: Project Manager/Systems Architect
+ - title: Systems Architect
    start: 1995
    end: 2000
    employer: Hong Kong Police
@@ -83,7 +83,7 @@ roles:
 
 #Education is required
 education:
- - level: Master of Telecommunications
+ - level: Master of Telecom
    date: 2007
    subject: Telecommunication
    school: HKUST

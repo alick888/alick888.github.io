@@ -10,7 +10,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+   url: https://codingwithalickwong.blogspot.com/
  - title: GitHub
    url: https://github.com/alick888
  - title: StackOverflow
@@ -51,7 +51,7 @@ skills:
  - Technical Architecture
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+blogfeed: https://codingwithalickwong.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:

@@ -142,7 +142,7 @@ additionalinfo: |
    <strong>Cloud platforms</strong>: I have primarily used Aliyun for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of Aliyun offerings. <br/><br/>
    <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used Flask, Django, jQuery, Bootstrap and React<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
-   <strong>DevOps</strong>: I have created a CI/CD framework using Terraform, Jenkins and Ansible to deploy an enterprise software solution with applications built into Docker images running on Kubernete clusters.<br/><br/>
+   <strong>DevOps</strong>: I have created a CI/CD framework using Terraform, Jenkins and Ansible to deploy an enterprise software solution with applications built into Docker images running on Kubernetes clusters.<br/><br/>
    <strong>Agile</strong>: I have used Agile methodologies for managing customer requirements and development tasks.<br/><br/>
    <strong>BlockChain</strong>: I have used in some personal projects to record authentic transaction using Smart Contract, DApp and IPFS.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, Machine Learning Model, a variety of social APIs (Twilio, Slack, etc) and cloud platforms such as Azure/Google/AWS. <br/><br/>

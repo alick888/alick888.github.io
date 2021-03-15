@@ -27,11 +27,9 @@ skills:
  - Java
  - Python
  - C++
- - Scrum
- - Jira
- - Chef
- - Terraform
- - Ansible
+ - Agile
+ - DevOps
+ - CI/CD
  - Microservices
  - Machine Learning
  - Kubernetes
@@ -61,13 +59,13 @@ roles:
    employer: Pegacode
    description: Designed and implemented cloud native application frameworks using Python and Java for IoT and Finance industry.  Managed cloud based architecture for hosting application development and production environments.
  - title: Solution Architect
-   start: 2007
+   start: 2004
    end: 2018
    employer: Oracle
-   description: Designed and developed integration framework for B/OSS products in the cloud and on-premise.  Created automated deployment framework for B/OSS applications based on modern CI/CD technologies as part of the integrated product offerings.  Provided best practice guideline and expert services for customer implementations.
+   description: Designed and developed integration framework for B/OSS products in the cloud and on-premise.  Created automated deployment framework for B/OSS applications based on modern CI/CD technologies as part of the integrated product offerings.  Provided best practice guidelines and expert services for customer implementations.
  - title: Principal Sales Consultant
    start: 2000
-   end: 2007
+   end: 2004
    employer: Portal Software
    description: Key principal sales consultant in the APAC region to support proof of concepts, demo and solution design for B/OSS systems written in C++ and Java.
  - title: Systems Architect
@@ -132,7 +130,7 @@ stackoverflow:
 intro: |
  I have extensive Solution Architecture experience for Telecom Operators, Financial Institutions and Government with in-depth knowledge in multiple programming languages including Java, Python, C++ and JavaScript.<br/><br/>  
  I am passionate about technology and innovation and have won the Innovation Award from Alibaba Cloud Global AI Innovation Challenge 2020.  <br/><br/>
- I am fluent in Agile and DevOps technologies for a complete end-to-end software life cycle that span across requirement analysis, design, build, test, deploy and monitor. <br/><br/> 
+ I am fluent in Agile and DevOps technologies for a complete end-to-end software life cycle that span across requirement analysis, design, build, testing and deployment. <br/><br/> 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |

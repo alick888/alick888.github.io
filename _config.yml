@@ -126,7 +126,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/15381388/alick-wong
-   flairimageurl: https://stackoverflow.com/users/flair/15381388.png
+#   flairimageurl: https://stackoverflow.com/users/flair/15381388.png
 
 intro: |
  I have extensive Solution Architecture experience for Telecom Operators, Financial Institutions and Government with in-depth knowledge in multiple programming languages including Java, Python, C++ and JavaScript.<br/><br/>  

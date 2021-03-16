@@ -119,7 +119,7 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - alick888/DAppCentral
- - alick888/FaceIdControl
+ - alick888/FaceIDControl
  - alick888/mule-modules-sayhi
  - alick888/docker-react
 

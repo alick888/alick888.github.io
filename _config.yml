@@ -19,8 +19,8 @@ primarylinks:
    url: https://dzone.com/users/4527507/alickwong.html
  - title: LinkedIn
    url: https://www.linkedin.com/in/alickwong/
- - title: Machine Learning
-   url: http://www.pegacode.com/index.php/machine-learning-sample/
+# - title: Machine Learning
+#   url: http://www.pegacode.com/index.php/machine-learning-sample/
    
 #Any buzzword skills you want to include
 skills:

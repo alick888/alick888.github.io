@@ -13,8 +13,8 @@ primarylinks:
    url: https://codingwithalickwong.blogspot.com/
  - title: GitHub
    url: https://github.com/alick888
- - title: Resume Download
-   url: https://github.com/alick888/resume/raw/main/Alick%20Wong%20-%20Latest%20Resume.pdf
+# - title: Resume Download
+#   url: https://github.com/alick888/resume/raw/main/Alick%20Wong%20-%20Latest%20Resume.pdf
  - title: DZone
    url: https://dzone.com/users/4527507/alickwong.html
  - title: LinkedIn

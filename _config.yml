@@ -54,9 +54,14 @@ blogfeed: https://codingwithalickwong.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
+ - title: Client Solutions Engineer
+   start: 2021
+   end: Ongoing
+   employer: Mulesoft
+   description: Provide sales consulting support for Mulesoft Anypoint Platform in the GCR region across industries such as Finance, Telecom and Retail.
  - title: Enterprise Architect
    start: 2018
-   end: Ongoing
+   end: 2021
    employer: Pegacode
    description: Designed and implemented cloud native application frameworks using Python and Java for IoT and Finance industry.  Managed cloud based architecture for hosting application development and production environments.
  - title: Solution Architect
